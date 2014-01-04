@@ -1,4 +1,4 @@
 VisitSpotify
 ============
 
-Spotify building virtually
+Visit Spotify virtually
